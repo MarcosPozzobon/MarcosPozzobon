@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <p align="left">My name is Marcos and I'm a backend developer, from Brazil!</p>
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Clean Architecture and Microservices<br>🎯 Goals: Get better everyday and support people with other projects.<br>🎲 Fun fact: There is no fun fact.</p>
+<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: Get better everyday and support people with other projects.<br>🎲 Fun fact: There is no fun fact.</p>
 <h2 align="left">I code with</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
